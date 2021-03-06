@@ -83,3 +83,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
+domain: 'https://royal-cedar-3ebfd.netlify.app'
